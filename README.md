@@ -4,4 +4,4 @@
 
 ## Reference: 
 AdaIN : https://github.com/naoto0804/pytorch-AdaIN
-Image classification: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+\nImage classification: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
